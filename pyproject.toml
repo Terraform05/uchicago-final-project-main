@@ -15,7 +15,7 @@ pandas = "^2.0.3"
 matplotlib = "^3.7.2"
 seaborn = "^0.12.2"
 rdkit = "^2023.3.2"
-tqdm = "^4.65.0"
+tqdm = "^4.66.3"
 itables = "^1.5.3"
 
 [tool.poetry.group.extras.dependencies]
