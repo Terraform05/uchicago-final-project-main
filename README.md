@@ -1,6 +1,6 @@
 # Uchicago Summer Session 2023 Datascience Final Project
 
-## By James Lin, Alex Ramirez, Corona Tian and Jiaxi Gao
+## By Alex Ramirez, James Lin, Corona Tian and Jiaxi Gao
 
 Predicting solubility of molecules using different models and featurizers
 
